@@ -9,11 +9,26 @@ body{
 }
 nav{
     background-image: url(https://images6.alphacoders.com/327/thumbbig-327099.webp);
-    background-repeat: no-repeat;
-   background-size: cover;
+    background-repeat: no-repeat; 
+   background-size:cover;
 }
 h5{
     color:rgb(77, 151, 174);
     padding-right:12px;
     padding-top:50px;
+}
+
+a:visited{
+    color:mediumspringgreen;
+}
+
+a:hover{
+    color:rgb(170, 206, 207);
+} 
+hr{
+    color: deepskyblue;
+}
+p{
+    margin-left:1300px;
+    color:mediumspringgreen;
 }
