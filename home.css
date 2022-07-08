@@ -83,3 +83,70 @@ textarea{
  color:rgba(181, 23, 160, 0.8);
  background-color: rgba(184, 206, 140, 0.7);
 }
+
+@media only screen and (min-width:0px) and (max-width:360px){
+    h1{
+        margin-left:-100px;
+    }
+    fieldset{
+        width:300px;
+        height:540px;
+        padding-left:0px;
+        margin-left:2px;
+    }
+    textarea{
+        margin-left: 16px;
+        width:200px;
+        padding-right: 0px;
+    }
+    .second{
+        width: 190px;
+        padding-right:12px;
+        margin-left:12px;
+    }
+    .first{
+        margin-left:12px;
+        padding-left: 0px;
+    }
+    select{
+        width:200px;
+        margin-left: 18px;
+        padding-left: 0px;
+    }
+    .third{
+        margin-left: 100px;
+    }
+    }
+    @media only screen and (min-width:360px) and (max-width:500px){
+    h1{
+        margin-left:-100px;
+    }
+    fieldset{
+        width:310px;
+        height:540px;
+        padding-left:10px;
+        margin-left:2px;
+    }
+    textarea{
+        margin-left: 20px;
+        width:280px;
+        padding-right: 0px;
+    }
+    .second{
+        width: 270px;
+        padding-right:12px;
+        margin-left:20px;
+    }
+    .first{
+        margin-left:27px;
+        padding-left: 0px;
+    }
+    select{
+        width:280px;
+        margin-left: 18px;
+        padding-left: 20px;
+    }
+    .third{
+        margin-left: 140px;
+    }
+    }
