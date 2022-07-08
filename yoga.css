@@ -59,3 +59,14 @@ p{
         height:200px ;
     }
  }
+ @media only screen and (min-width:360px)and (max-width:500px){
+    .space{
+        margin-left:10px;
+        max-width:440px;
+    }
+    img{
+        width:380px;
+        padding-left:60px;
+        height:200px ;
+    }
+ }
