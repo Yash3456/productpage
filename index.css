@@ -93,7 +93,7 @@ img{
 
      @media only screen and (min-width:0px)and (max-width:360px){
         table{
-            margin-left:0px;
+            margin-left:3px;
             width:350px;
         }
         img{
@@ -115,7 +115,7 @@ img{
         }
         img{
             width:330px;
-            padding-left:0px;
+            padding-left:10px;
             height:200px ;
         }
         #frog{
