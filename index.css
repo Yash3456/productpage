@@ -108,3 +108,20 @@ img{
         }
         
      }
+     @media only screen and (min-width:360px)and (max-width:500px){
+        table{
+            margin-left:0px;
+            width:350px;
+        }
+        img{
+            width:330px;
+            padding-left:0px;
+            height:200px ;
+        }
+        #frog{
+            margin-left:0px;
+            width:100px;
+            height:70px;
+        }
+        
+     }
