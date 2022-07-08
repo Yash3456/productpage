@@ -90,3 +90,21 @@ img{
         border-radius: 5%;
         border:7px solid rgba(79, 209, 172, 0.54);
     }
+
+     @media only screen and (min-width:0px)and (max-width:360px){
+        table{
+            margin-left:0px;
+            width:350px;
+        }
+        img{
+            width:330px;
+            padding-left:0px;
+            height:200px ;
+        }
+        #frog{
+            margin-left:0px;
+            width:100px;
+            height:70px;
+        }
+        
+     }
